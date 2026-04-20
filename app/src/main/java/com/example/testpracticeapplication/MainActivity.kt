@@ -38,6 +38,7 @@ import com.example.testpracticeapplication.debouncesearch.SearchScreen
 import com.example.testpracticeapplication.likeunlickepresentation.LikeUnlikeScreen
 import com.example.testpracticeapplication.loginpresentation.LoginIntent
 import com.example.testpracticeapplication.loginpresentation.LoginViewModel
+import com.example.testpracticeapplication.snackbartest.SnackBarScreen
 import com.example.testpracticeapplication.timerpresentation.TimerScreen
 import com.example.testpracticeapplication.ui.theme.TestPracticeApplicationTheme
 
@@ -56,8 +57,9 @@ class MainActivity : ComponentActivity() {
                     )*/
                     //SearchScreen(modifier = Modifier.padding(innerPadding))
                    // TimerScreen(modifier = Modifier.padding(innerPadding))
-                    LikeUnlikeScreen(modifier = Modifier.padding(innerPadding))
+                   // LikeUnlikeScreen(modifier = Modifier.padding(innerPadding))
                     //PasswordToggleScreen(modifier = Modifier.padding(innerPadding))
+                    SnackBarScreen(modifier = Modifier.padding(innerPadding))
                 }
             }
         }
