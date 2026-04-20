@@ -1,0 +1,18 @@
+Problem Statement
+
+Create a Countdown Timer screen with:
+
+⏱ Input field (seconds)
+▶️ Start button
+⏸ Pause button
+🔄 Reset button
+📊 Display remaining time
+
+
+🎯 Requirements
+Timer should count down every second
+On reaching 0 → show “Time’s up!”
+Handle:
+Pause/resume correctly
+Configuration changes (rotation)
+No memory leaks

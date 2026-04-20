@@ -1,0 +1,11 @@
+Exercise: Search with Debounce + API Simulation
+📝 Problem Statement
+
+Build a search screen with:
+
+🔍 TextField for input
+📡 Call API (simulate with delay)
+⏳ Show loading indicator
+📋 Show results list
+⚡ Debounce input (300ms) → avoid multiple API calls
+❌ Show error message if query = "error"
