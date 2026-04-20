@@ -54,10 +54,10 @@ class MainActivity : ComponentActivity() {
                     /*CounterComputation(
                         modifier = Modifier.padding(innerPadding)
                     )*/
-                  //  SearchScreen(modifier = Modifier.padding(innerPadding))
+                    //SearchScreen(modifier = Modifier.padding(innerPadding))
                    // TimerScreen(modifier = Modifier.padding(innerPadding))
-                   // LikeUnlikeScreen(modifier = Modifier.padding(innerPadding))
-                    PasswordToggleScreen(modifier = Modifier.padding(innerPadding))
+                    LikeUnlikeScreen(modifier = Modifier.padding(innerPadding))
+                    //PasswordToggleScreen(modifier = Modifier.padding(innerPadding))
                 }
             }
         }
