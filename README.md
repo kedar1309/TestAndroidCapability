@@ -1,10 +1,8 @@
-| Feature            | Description                          | Screen Name        |
-|-------------------|--------------------------------------|--------------------|
-| Login             | User can login with email/password   | <img src="https://raw.githubusercontent.com/kedar1309/TestAndroidCapability/main/screenshots/like.png"
-     width="250"
-     height="500" />       |
-| Password Toggle   | Show/Hide password functionality     | Password Screen    |
-| Counter           | Increment and decrement counter      | Counter Screen     |
-| Timer             | Play, Pause and Reset timer          | Timer Screen       |
-| Like/Unlike       | Toggle like state                    | Like Screen        |
-| Search            | Enter and handle search query        | Search Screen      |
+| Feature | Description | Screen |
+|--------|------------|--------|
+| Login  | User login | <img src="https://raw.githubusercontent.com/kedar1309/TestAndroidCapability/main/screenshots/login.png" width="210"/> |
+| Like   | Toggle like | <img src="https://raw.githubusercontent.com/kedar1309/TestAndroidCapability/main/screenshots/like.png" width="210"/> |
+| Counter| Counter like | <img src="https://raw.githubusercontent.com/kedar1309/TestAndroidCapability/main/screenshots/counter.png" width="210"/> |
+| counteraddminus   | Toggle like | <img src="https://raw.githubusercontent.com/kedar1309/TestAndroidCapability/main/screenshots/counteraddminus.png" width="210"/> |
+| password   | Toggle like | <img src="https://raw.githubusercontent.com/kedar1309/TestAndroidCapability/main/screenshots/password.png" width="210"/> |
+| Search   | Toggle like | <img src="https://raw.githubusercontent.com/kedar1309/TestAndroidCapability/main/screenshots/search.png" width="210"/> |
