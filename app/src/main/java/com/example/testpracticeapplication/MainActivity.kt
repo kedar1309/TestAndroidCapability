@@ -144,6 +144,6 @@ fun LoginScreen(modifier: Modifier = Modifier){
 @Composable
 fun GreetingPreview() {
     TestPracticeApplicationTheme {
-      //  Greeting("Android")
+        //  Greeting("Android")
     }
 }
